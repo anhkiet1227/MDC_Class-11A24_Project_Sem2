@@ -5,3 +5,6 @@ This game was made by Sugar (anhkiet1227) in 2019 in class 11A24, Mạc Đĩnh C
 Available at: https://scratch.mit.edu/projects/537968206
 
 Reference source: Internet
+
+This file includes sb3 file and a report file
+
